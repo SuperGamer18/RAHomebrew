@@ -1,0 +1,19 @@
+Unfortunately the files for these games are WAY too heavy for GitHub, so they cannot be uploaded here (apparently GitHub's file size upload limit was 100MB, but now it's just a measly 25MB...).
+Instead, download links to these games will be provided here:
+Buzzy Bee: https://ndr008.itch.io/buzzy-bee
+Magic Castle: https://archive.org/details/magic-castle-2021-07-may
+PSXFunkin: https://github.com/cuckydev/PSXFunkin/releases/tag/t0.12
+Everything after this line is a mod of PSXFunkin (only mods with sets will be posted here as there are a lot of PSXFunkin mods on the site).
+Vs. Crash: https://gamebanana.com/mods/321100
+Pibby Corrupted: https://gamebanana.com/mods/388045
+B Sides: https://gamebanana.com/mods/320795
+D Sides: https://gamebanana.com/mods/338743
+Neo: https://gamebanana.com/mods/329221
+Skeleton Bros: https://gamebanana.com/mods/372077
+Vs. Impostor V4: https://gamebanana.com/mods/451768
+Vs. Kapi: https://gamebanana.com/mods/331076
+Vs. Matt: https://gamebanana.com/mods/335393
+Vs. Ourple Guy V2: https://gamebanana.com/mods/412419
+Vs. Selever: https://gamebanana.com/mods/392402
+Vs. Tabi EX: https://gamebanana.com/mods/338827
+Vs. Tricky: https://gamebanana.com/mods/385882
