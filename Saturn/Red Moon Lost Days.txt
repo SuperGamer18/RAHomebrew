@@ -1,0 +1,2 @@
+This game is too heavy to upload here, so its download page will be linked instead:
+https://neuromage.itch.io/red-moon-lost-days (as this game uses the JO Engine, you'll need this patch, although this game doesn't have a set anyways: https://github.com/RetroAchievements/RAPatches/blob/main/Saturn/Fix/25787-RedMoonLostDays.zip)
