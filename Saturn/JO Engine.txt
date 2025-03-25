@@ -1,0 +1,4 @@
+Red Moon Lost Days is too heavy to upload here, so its download page will be linked instead:
+https://neuromage.itch.io/red-moon-lost-days (as this game uses the JO Engine, you'll need this patch, although this game doesn't have a set anyways: https://github.com/RetroAchievements/RAPatches/blob/main/Saturn/Fix/25787-RedMoonLostDays.zip)
+Flicky's Flock, on the other hand, isn't but since it doesn't have a set either, you can download it here:
+https://github.com/slinga-homebrew/Flickys-Flock/releases (no patch to change the hash has been made so far)
