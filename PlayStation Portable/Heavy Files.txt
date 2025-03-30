@@ -1,0 +1,4 @@
+Unfortunately the files for these games are WAY too heavy for GitHub, so they cannot be uploaded here (apparently GitHub's file size upload limit was 100MB, but now it's just a measly 25MB...).
+Instead, download links to these games will be provided here:
+Shovel Knight PSP: https://yersongames.itch.io/skpsp
+Geometry Dash PSP: https://yersongames.itch.io/gdpsp
