@@ -1,4 +1,10 @@
-Red Moon Lost Days is too heavy to upload here, so its download page will be linked instead:
+The following games are too heavy to upload here, so their download pages will be linked instead.
+Red Moon Lost Days:
 https://neuromage.itch.io/red-moon-lost-days (as this game uses the JO Engine, you'll need this patch, although this game doesn't have a set anyways: https://github.com/RetroAchievements/RAPatches/blob/main/Saturn/Fix/25787-RedMoonLostDays.zip)
+Sonic Z-Treme:
+https://sonicfangameshq.com/forums/showcase/sonic-z-treme-saturn-sage-2018-demo.161/
+Cubecat:
+https://segaxtreme.net/threads/cubecat-updated-builds.25188/ (hash fix patch here since the game uses the THEROCKIN'-B ENGINE: https://github.com/RetroAchievements/RAPatches/blob/main/Saturn/Fix/25008-Cubecat-RAHashFix.zip)
 Flicky's Flock, on the other hand, isn't but since it doesn't have a set either, you can download it here:
 https://github.com/slinga-homebrew/Flickys-Flock/releases (no patch to change the hash has been made so far)
+
