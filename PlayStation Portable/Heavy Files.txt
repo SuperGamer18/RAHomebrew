@@ -1,4 +1,8 @@
 Unfortunately the files for these games are WAY too heavy for GitHub, so they cannot be uploaded here (apparently GitHub's file size upload limit was 100MB, but now it's just a measly 25MB...).
 Instead, download links to these games will be provided here:
+FNAF 1 PSP: https://basdev.itch.io/fnaf1psp (official source but unsupported later version) https://archive.org/details/fna-f-1-psp.-7z (unofficial but seems to be the supported hash)
+FNAF 2 PSP: https://gamejolt.com/games/FNAF2PSP/680533
+FNAF 3 PSP: https://gamejolt.com/games/FNAF3PSP/686231
+FNAF 4 PSP: https://gamejolt.com/games/FNAF4PSP/715812 (unsupported but latest version) https://gamejolt.com/games/FNAF4PSP/632851 (outdated but seems to be the supported hash)
 Shovel Knight PSP: https://yersongames.itch.io/skpsp
 Geometry Dash PSP: https://yersongames.itch.io/gdpsp
