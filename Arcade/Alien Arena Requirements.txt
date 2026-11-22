@@ -1,0 +1,1 @@
+In order to load this game, the file "sg.snd" needs to be placed inside the "alienar.zip" file. This file is not included in the official download, and thus is not included here. This file corresponds to the "stargate.zip" ROM, which belongs to Stargate. If the ROM is for MAME version 0.225 or later, the required file's name is "video_sound_rom_2_std_744.ic12" instead.
