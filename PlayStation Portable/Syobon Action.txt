@@ -1,0 +1,3 @@
+Additional stuff is required for an ideal experience with Syobon Action.
+Texture patch and secret level: https://drive.google.com/drive/folders/1FOubY40uHcqONVmyzEzIkxOJjJBVrqxY
+Subset: https://github.com/RetroAchievements/RAPatches/tree/main/PlayStation%20Portable/Subset
