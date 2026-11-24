@@ -1,4 +1,4 @@
-Unfortunately the files for these games are WAY too heavy for GitHub, so they cannot be uploaded here (apparently GitHub's file size upload limit was 100MB, but now it's just a measly 25MB...).
+Unfortunately the files for these games are WAY too heavy for directly uploading to the browser version of GitHub, so they cannot be uploaded here.
 Instead, download links to these games will be provided here:
 FNAF 1 PSP: https://basdev.itch.io/fnaf1psp (official source but unsupported later version) https://archive.org/details/fna-f-1-psp.-7z (unofficial but seems to be the supported hash)
 FNAF 2 PSP: https://gamejolt.com/games/FNAF2PSP/680533
